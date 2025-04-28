@@ -1,0 +1,27 @@
+# Python cache and build files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment files
+.env
+*.env
+
+# Output directory
+output/
+
+# Virtual environment
+venv/
+.env/
+*.egg-info/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# System files
+.DS_Store
+Thumbs.db

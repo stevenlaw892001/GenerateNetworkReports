@@ -1,0 +1,10 @@
+# Example environment variables for the Network Traffic PDF Generator
+# Copy this file to .env and fill in your actual values
+
+# Directory where PDF reports will be saved
+OUTPUT_DIR=/path/to/output/directory
+
+# URLs for network traffic monitoring pages
+URL_NETWORK_COMBINED=https://your-network-traffic-url/combined
+URL_NETWORK1=https://your-network-traffic-url/network1
+URL_NETWORK2=https://your-network-traffic-url/network2
